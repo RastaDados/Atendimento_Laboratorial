@@ -1,6 +1,6 @@
 <h1>Atendimento Laboratorial - CoraçãoLab</h1>
 
-Este Dashboard criado é de uma empresa que faz atendimentos laboratóriais, em específico cariovasculares.
+Este Dashboard criado é de uma empresa que faz atendimentos laboratóriais, em específico cardiovasculares.
 Todos os dados presentes nesse projeto foram modificados a fim de respeitar as políticas de privacidade e da Lei Geral de Proteção de Dados Pessoais (LGPD)
 
 <hr>
