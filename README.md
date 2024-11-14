@@ -3,7 +3,12 @@
 Este Dashboard criado é de uma empresa que faz atendimentos laboratóriais, em específico cardiovasculares.
 Todos os dados presentes nesse projeto foram modificados a fim de respeitar as políticas de privacidade e da Lei Geral de Proteção de Dados Pessoais (LGPD)
 
+<br>
+
+<h2><a href="https://app.powerbi.com/groups/me/reports/37f68f19-977d-42c7-8f7a-00a6159c193d/e6c7e54d0faf25d2cbf4?experience=power-bi">Acesse o Projeto</a></h2>
+
 <hr>
+<br>
 <br>
 
 <h2>Base de Dados</h2>
