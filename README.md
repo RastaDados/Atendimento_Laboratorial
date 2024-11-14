@@ -5,7 +5,7 @@ Todos os dados presentes nesse projeto foram modificados a fim de respeitar as p
 
 <br>
 
-<h2><a href="https://app.powerbi.com/groups/me/reports/37f68f19-977d-42c7-8f7a-00a6159c193d/e6c7e54d0faf25d2cbf4?experience=power-bi">Acesse o Projeto</a></h2>
+<h2><a href="https://app.powerbi.com/groups/me/reports/37f68f19-977d-42c7-8f7a-00a6159c193d/e6c7e54d0faf25d2cbf4?experience=power-bi" target="_blank">Acesse o Projeto</a></h2>
 
 <hr>
 <br>
